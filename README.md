@@ -5,7 +5,6 @@ Generate strong and secure passwords with this simple web-based password generat
 ## Features
 
 - Generate secure passwords with various characters and symbols.
-- Customize the length of the generated password.
 - Copy generated passwords to your clipboard for easy use.
 
 ## Usage
